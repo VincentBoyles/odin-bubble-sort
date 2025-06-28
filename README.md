@@ -50,7 +50,6 @@ end
 - Control flow with `loop` and `break`
 - In-place element swapping
 - Use of flags to detect sorted state
-- Basic time complexity reasoning
 
 ---
 
